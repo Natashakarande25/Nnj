@@ -1,3 +1,5 @@
+Sudi raspi-config.
+
 // Video Recording (video1.py)
 import time
 from picamera import PiCamera
